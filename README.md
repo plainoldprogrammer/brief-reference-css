@@ -3,7 +3,12 @@ Brief reference of the CSS language.
 
 ---
 
-#### Hide an element
+#### Not show an element
 ```
 display: none;
+```
+
+#### Hide an element
+```
+visibility: hidden;
 ```

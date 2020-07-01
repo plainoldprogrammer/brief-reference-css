@@ -12,3 +12,9 @@ display: none;
 ```
 visibility: hidden;
 ```
+
+#### Change the background to red color
+```
+background: red;
+background-color: red;
+```

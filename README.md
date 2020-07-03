@@ -18,3 +18,8 @@ visibility: hidden;
 background: red;
 background-color: red;
 ```
+
+#### Change the text color to blue
+```
+color: blue;
+```

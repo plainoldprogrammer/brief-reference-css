@@ -23,3 +23,12 @@ background-color: red;
 ```
 color: blue;
 ```
+
+#### Center the body content
+```
+body
+{
+  width: 600px;
+  margin: 0 auto;
+}
+```

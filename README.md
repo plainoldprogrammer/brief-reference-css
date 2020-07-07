@@ -32,3 +32,11 @@ body
   margin: 0 auto;
 }
 ```
+
+#### Change the background color of the body content
+```
+body > *
+{
+	background: magenta;
+}
+```

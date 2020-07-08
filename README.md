@@ -40,3 +40,8 @@ body > *
 	background: magenta;
 }
 ```
+
+#### No longer increase the width padding and width border of an element
+```
+box-sizing: border-box;
+```

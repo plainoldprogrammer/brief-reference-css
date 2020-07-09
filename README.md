@@ -45,3 +45,8 @@ body > *
 ```
 box-sizing: border-box;
 ```
+
+#### Write a comment
+```
+/* This is a comment */
+```

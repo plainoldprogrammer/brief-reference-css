@@ -50,3 +50,10 @@ box-sizing: border-box;
 ```
 /* This is a comment */
 ```
+
+#### Change the text size of a header
+```
+h2 {
+	font-size: 28px;
+}
+```

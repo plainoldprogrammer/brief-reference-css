@@ -54,7 +54,7 @@ box-sizing: border-box;
 #### Change the text size of a header
 ```
 h2 {
-	font-size: 28px;
+  font-size: 28px;
 }
 ```
 

@@ -37,7 +37,7 @@ body
 ```
 body > *
 {
-	background: magenta;
+  background: magenta;
 }
 ```
 
@@ -61,20 +61,20 @@ h2 {
 #### Select multiple HTML elements in the same CSS rule
 ```
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "Helvetica", "Arial", sans-serif;
 }
 ```
 
 #### Change to a circle the bullet icon of a list
 ```
 ul {
-	list-style-type: circle;
+  list-style-type: circle;
 }
 ```
 
 #### Change to a roman number the number of a list
 ```
 ol {
-	list-style-type: lower-roman;
+  list-style-type: lower-roman;
 }
 ```

@@ -65,9 +65,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 ```
 
-#### Change to a circle the bullet icon of a lList
+#### Change to a circle the bullet icon of a list
 ```
 ul {
 	list-style-type: circle;
+}
+```
+
+#### Change to a roman number the number of a list
+```
+ol {
+	list-style-type: lower-roman;
 }
 ```

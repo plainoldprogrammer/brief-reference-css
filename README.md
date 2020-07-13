@@ -78,3 +78,10 @@ ol {
   list-style-type: lower-roman;
 }
 ```
+
+#### Remove the underline from the links
+```
+a {
+	text-decoration: none;
+}
+```

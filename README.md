@@ -85,3 +85,10 @@ a {
 	text-decoration: none;
 }
 ```
+
+#### Strike deleted text
+```
+p {
+	text-decoration: line-through;	
+}
+```

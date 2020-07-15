@@ -82,13 +82,20 @@ ol {
 #### Remove the underline from the links
 ```
 a {
-	text-decoration: none;
+  text-decoration: none;
 }
 ```
 
 #### Strike deleted text
 ```
 p {
-	text-decoration: line-through;	
+  text-decoration: line-through;	
+}
+```
+
+#### Define the alignment of text
+```
+p {
+  text-align: left;
 }
 ```

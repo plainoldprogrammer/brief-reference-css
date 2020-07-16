@@ -101,6 +101,15 @@ p {
 ```
 
 #### Remove the bold from the headings
+```
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
+```
+
+#### Hightligh inline elements and color the block elements
+```
+em, strong {
+  background-color: #B2D6FF; /* Light blue */
+}
+```

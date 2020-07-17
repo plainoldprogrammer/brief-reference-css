@@ -113,3 +113,10 @@ em, strong {
   background-color: #B2D6FF; /* Light blue */
 }
 ```
+
+#### Change the default box type from inline to blocks
+```
+em, strong {
+  display: block;
+}
+```

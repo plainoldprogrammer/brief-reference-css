@@ -120,3 +120,10 @@ em, strong {
   display: block;
 }
 ```
+
+#### Turn backiInto inline box an element 
+```
+em, strong {
+	display: inline;
+}
+```

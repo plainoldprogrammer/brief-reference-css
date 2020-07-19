@@ -121,9 +121,16 @@ em, strong {
 }
 ```
 
-#### Turn backiInto inline box an element 
+#### Turn back into inline box an element 
 ```
 em, strong {
-	display: inline;
+  display: inline;
+}
+```
+
+#### Add padding to the headers
+```
+h1 {
+  padding: 50px;
 }
 ```

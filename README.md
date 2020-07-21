@@ -134,3 +134,13 @@ h1 {
   padding: 50px;
 }
 ```
+
+#### Add a padding on one side of an element
+```
+p {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+```

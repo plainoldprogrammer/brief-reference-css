@@ -138,9 +138,16 @@ h1 {
 #### Add a padding on one side of an element
 ```
 p {
-	padding-top: 20px;
-	padding-bottom: 20px;
-	padding-left: 10px;
-	padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+```
+
+#### Shorthand for padding with 2 values
+```
+p {
+  padding: 20px 10px;
 }
 ```

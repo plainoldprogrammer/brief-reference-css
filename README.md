@@ -151,3 +151,10 @@ p {
   padding: 20px 10px;
 }
 ```
+
+#### Shorthand for padding with 4 values
+```
+p {
+  paddding: 20px 0 20px 10px;
+}
+```

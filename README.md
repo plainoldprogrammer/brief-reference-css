@@ -158,3 +158,11 @@ p {
   paddding: 20px 0 20px 10px;
 }
 ```
+
+#### Adding a border around the head
+```
+h1 {
+  papdding: 50px;
+  border: 1px solid #5D6063;
+}
+```

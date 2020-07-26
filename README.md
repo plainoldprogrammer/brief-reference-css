@@ -166,3 +166,10 @@ h1 {
   border: 1px solid #5D6063;
 }
 ```
+
+#### Drawing a border at the bottom of a heading
+```
+h1 {
+  border-botton: 1pm solid #5D6063;
+}
+```

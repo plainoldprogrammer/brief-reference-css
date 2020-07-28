@@ -173,3 +173,10 @@ h1 {
   border-botton: 1pm solid #5D6063;
 }
 ```
+
+#### Debug a box to know how is being rendered
+```
+div {
+  border: 1px solid red;
+}
+```

@@ -180,3 +180,10 @@ div {
   border: 1px solid red;
 }
 ```
+
+#### Add a margin at the bottom of a paragraph
+```
+p {
+  margin-bottom: 50px;
+}
+```

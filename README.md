@@ -187,3 +187,10 @@ p {
   margin-bottom: 50px;
 }
 ```
+
+#### Add a Border Radius to a Div
+```
+div {
+  border-radius: 5px;
+}
+```

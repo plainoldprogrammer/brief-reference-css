@@ -188,9 +188,16 @@ p {
 }
 ```
 
-#### Add a Border Radius to a Div
+#### Add a border radius to a div
 ```
 div {
   border-radius: 5px;
+}
+```
+
+#### Set bold font
+```
+div {
+  font-weight: bold;
 }
 ```

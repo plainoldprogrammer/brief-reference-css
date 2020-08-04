@@ -201,3 +201,10 @@ div {
   font-weight: bold;
 }
 ```
+
+#### Set the width of a div in pixels
+```
+div {
+  width: 200px;
+}
+```

@@ -209,10 +209,16 @@ div {
 }
 ```
 
-### Hide the elements content when is too big to fit
+#### Hide the elements content when is too big to fit
 ```
 div {
   overflow: hidden;
 }
 ```
 
+#### Add a scroll to a element if the content is too big to fit
+```
+div {
+  overflow: scroll;
+}
+```

@@ -222,3 +222,10 @@ div {
   overflow: scroll;
 }
 ```
+
+#### Adjust automatically the elements content when is too big to fit
+```
+div {
+  overflow: auto;
+}
+```

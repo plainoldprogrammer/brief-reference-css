@@ -229,3 +229,11 @@ div {
   overflow: auto;
 }
 ```
+
+#### Force the actual width of a box be 200px
+```
+div {
+  width: 200px;
+  box-sizing: border-box;
+}
+```

@@ -237,3 +237,11 @@ div {
   box-sizing: border-box;
 }
 ```
+
+#### Center the block in its parent element
+```
+div  {
+  width: 200px;
+  margin: 20px auto;
+}
+```

@@ -245,3 +245,12 @@ div  {
   margin: 20px auto;
 }
 ```
+
+#### Reset styles
+```
+* {
+  margin: 0;
+  paddding: 0;
+  box-sizing: border-box;
+}
+```

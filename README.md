@@ -254,3 +254,11 @@ div  {
   box-sizing: border-box;
 }
 ```
+
+#### Define a CSS class selector
+```
+.synopsis {
+  color: #7E8184;
+  font-style: italic;
+}
+```

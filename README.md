@@ -262,3 +262,11 @@ div  {
   font-style: italic;
 }
 ```
+
+#### Center a div (fixed width layout)
+```
+.page {
+  width: 600px;
+  margin: 0 auto;
+}
+```

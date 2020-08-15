@@ -270,3 +270,10 @@ div  {
   margin: 0 auto;
 }
 ```
+
+#### Apply multiple classes to an element
+```
+<div class="button call-to-action">
+  Button
+</div>
+```

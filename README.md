@@ -277,3 +277,10 @@ div  {
   Button
 </div>
 ```
+
+#### Descendant selector
+```
+h1 em {
+   /* some style */
+}
+```

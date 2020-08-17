@@ -284,3 +284,24 @@ h1 em {
    /* some style */
 }
 ```
+
+#### Pseudoclasses of a link
+```
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: aqua;
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+}
+```

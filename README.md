@@ -305,3 +305,14 @@ a:active {
   color: red;
 }
 ```
+
+#### Visited hover state and visited active state
+```
+a:visited:hover {
+  color: orange;
+}
+
+a:visited:active {
+  color: red
+}
+```

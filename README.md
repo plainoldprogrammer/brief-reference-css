@@ -316,3 +316,10 @@ a:visited:active {
   color: red
 }
 ```
+
+#### Add an extra space to the last paragraph
+```
+p:last-of-type {
+  margin-bottom: 50px;
+}
+```

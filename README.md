@@ -323,3 +323,10 @@ p:last-of-type {
   margin-bottom: 50px;
 }
 ```
+
+#### Display in italic the first paragraph
+```
+p:first-of-type {
+  font-style: italic;
+}
+```

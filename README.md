@@ -330,3 +330,11 @@ p:first-of-type {
   font-style: italic;
 }
 ```
+
+#### Select only the first paragraph in a div (child selector)
+```
+.page > p:first-of-type {
+  color: #7E8184;
+  font-style: italic;
+}
+```

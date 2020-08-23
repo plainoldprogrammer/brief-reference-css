@@ -338,3 +338,9 @@ p:first-of-type {
   font-style: italic;
 }
 ```
+
+#### CSS selector for id 
+```
+#button-2 {
+}
+```

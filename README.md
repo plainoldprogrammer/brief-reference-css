@@ -344,3 +344,9 @@ p:first-of-type {
 #button-2 {
 }
 ```
+
+#### CSS selector for class
+```
+.button-2 {
+}
+```

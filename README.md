@@ -350,3 +350,9 @@ p:first-of-type {
 .button-2 {
 }
 ```
+
+#### Select all the elements
+```
+* {
+}
+```

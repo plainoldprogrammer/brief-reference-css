@@ -356,3 +356,10 @@ p:first-of-type {
 * {
 }
 ```
+
+#### Change all boxes to border box
+```
+* {
+  box-sizing: border-box;
+}
+```

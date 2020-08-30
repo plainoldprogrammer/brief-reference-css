@@ -363,3 +363,10 @@ p:first-of-type {
   box-sizing: border-box;
 }
 ```
+
+#### Change all boxes to content box
+```
+* {
+  box-sizing: content-box;
+}
+```

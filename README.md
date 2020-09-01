@@ -370,3 +370,11 @@ p:first-of-type {
   box-sizing: content-box;
 }
 ```
+
+#### Align block element to the left
+```
+.sidebar {
+  float: left;
+}
+```
+

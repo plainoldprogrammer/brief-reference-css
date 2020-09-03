@@ -378,3 +378,9 @@ p:first-of-type {
 }
 ```
 
+#### Align block element to the right
+```
+.sidebar {
+  float: right;
+}
+```

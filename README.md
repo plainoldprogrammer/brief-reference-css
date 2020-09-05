@@ -392,3 +392,9 @@ p:first-of-type {
 }
 ```
 
+#### Cancel float element
+```
+.sidebar {
+  float: none;
+}
+```

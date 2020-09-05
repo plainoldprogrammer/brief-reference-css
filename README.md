@@ -384,3 +384,11 @@ p:first-of-type {
   float: right;
 }
 ```
+
+#### Align block element to the center
+```
+.sidebar {
+  margin: 0 auto;
+}
+```
+

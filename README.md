@@ -398,3 +398,11 @@ p:first-of-type {
   float: none;
 }
 ```
+
+#### Clear an element to appear after any floats
+```
+.footer {
+  clear: both;
+  height: 200px;
+}
+```

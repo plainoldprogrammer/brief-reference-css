@@ -406,3 +406,11 @@ p:first-of-type {
   height: 200px;
 }
 ```
+
+#### Clear only the left values
+```
+.footer {
+  clear: right;
+  height: 200px;
+}
+```

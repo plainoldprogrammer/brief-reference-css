@@ -414,3 +414,10 @@ p:first-of-type {
   height: 200px;
 }
 ```
+#### Clear only the right values
+```
+.footer {
+  clear: right;
+  height: 200px;
+}
+```

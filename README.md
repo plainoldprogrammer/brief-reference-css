@@ -414,10 +414,23 @@ p:first-of-type {
   height: 200px;
 }
 ```
+
 #### Clear only the right values
 ```
 .footer {
   clear: right;
   height: 200px;
 }
+```
+
+#### Recognize the height of any floated element in a div
+```
+.page {
+  overflow: hidden;
+}
+
+<div class="page">
+  <div class="sidebar">Sidebar</div>
+  <div class="content">Content</div>
+</div>
 ```

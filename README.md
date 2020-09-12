@@ -434,3 +434,10 @@ p:first-of-type {
   <div class="content">Content</div>
 </div>
 ```
+
+#### Turn one HTML element into a flex container
+```
+.menu-container {
+  display: flex;
+}
+```

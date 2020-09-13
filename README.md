@@ -441,3 +441,11 @@ p:first-of-type {
   display: flex;
 }
 ```
+
+#### Define the horizontal alighment of the items of a flexbox
+```
+.menu-container {
+  display: flexbox;
+  justify-content: center;
+}
+```

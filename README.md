@@ -442,10 +442,17 @@ p:first-of-type {
 }
 ```
 
-#### Define the horizontal alighment of the items of a flexbox
+#### Define the horizontal alignment of the items of a flexbox
 ```
 .menu-container {
   display: flexbox;
   justify-content: center;
+}
+```
+
+#### Align vertically the content of a flex container
+```
+.header {
+  align-items: center;
 }
 ```

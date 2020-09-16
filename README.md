@@ -456,3 +456,11 @@ p:first-of-type {
   align-items: center;
 }
 ```
+
+#### Force items  that don't fit to getbBumped down to the next row
+```
+.photo-grid {
+  /* ... */
+  flex-wrap: wrap;
+}
+```

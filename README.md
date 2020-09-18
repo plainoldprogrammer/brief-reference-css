@@ -464,3 +464,10 @@ p:first-of-type {
   flex-wrap: wrap;
 }
 ```
+
+#### Change the direction of a container from row to column
+```
+.photo-grid {
+  flex-direction: column;
+}
+```

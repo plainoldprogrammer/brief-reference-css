@@ -471,3 +471,10 @@ p:first-of-type {
   flex-direction: column;
 }
 ```
+
+#### Set the direction of a container to row
+```
+.photo-grid {
+  flex-direction: row;
+}
+```

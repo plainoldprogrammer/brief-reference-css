@@ -488,3 +488,10 @@ p:first-of-type {
   flex-direction: row-reverse;
 }
 ```
+
+#### Change the order of a flex item
+```
+.photo-grid {
+  order: 1;
+}
+```

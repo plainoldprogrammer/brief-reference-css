@@ -495,3 +495,11 @@ p:first-of-type {
   order: 1;
 }
 ```
+
+#### Align a flex item individually
+```
+.social,
+.subscribe {
+  alight-left: flex-end;
+}
+```

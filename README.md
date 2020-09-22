@@ -503,3 +503,10 @@ p:first-of-type {
   alight-left: flex-end;
 }
 ```
+
+#### Tell the flex items to stretch to match the width of their parent content
+```
+.footer-item {
+  flex: 1;
+}
+```

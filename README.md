@@ -510,3 +510,12 @@ p:first-of-type {
   flex: 1;
 }
 ```
+
+#### Make a flex item to be fixed width
+```
+.footer-one,
+.footer-three {
+  flex: initial;
+  width: 300px;
+}
+```

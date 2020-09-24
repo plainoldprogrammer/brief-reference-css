@@ -519,3 +519,10 @@ p:first-of-type {
   width: 300px;
 }
 ```
+
+#### Eats up all the extra space in a flex container
+```
+.signup {
+  margin-left: auto;
+}
+```

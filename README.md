@@ -526,3 +526,8 @@ p:first-of-type {
   margin-left: auto;
 }
 ```
+
+#### Create a flex container
+```
+display: flex;
+```

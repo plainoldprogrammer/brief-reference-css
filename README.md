@@ -538,3 +538,10 @@ display: flex;
   position: relative;
 }
 ```
+
+#### Make an absolute positioning an element
+```
+.item-absolute {
+  position: absolute;
+}
+```

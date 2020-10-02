@@ -551,3 +551,14 @@ display: flex;
   position: fixed;
 }
 ```
+
+#### Make a list appear an horizontal menu
+```
+.menu > li {
+  display: inline;
+}
+
+.menu > li:last-of-type {
+  margin-right: 0;
+}
+```

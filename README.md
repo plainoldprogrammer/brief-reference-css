@@ -545,3 +545,9 @@ display: flex;
   position: absolute;
 }
 ```
+#### Make a fixed positioning an element
+```
+.item-fixed {
+  position: fixed;
+}
+```

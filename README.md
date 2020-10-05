@@ -562,3 +562,10 @@ display: flex;
   margin-right: 0;
 }
 ```
+
+#### Child selector
+```
+.menu > li {
+   display: inline;
+}
+```

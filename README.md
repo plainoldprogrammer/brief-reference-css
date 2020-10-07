@@ -569,3 +569,10 @@ display: flex;
    display: inline;
 }
 ```
+
+#### Descendant selector
+```
+.information p {
+  background-color: gray;
+}
+```

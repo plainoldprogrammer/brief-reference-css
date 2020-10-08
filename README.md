@@ -576,3 +576,11 @@ display: flex;
   background-color: gray;
 }
 ```
+
+#### Increment the z-index
+```
+.dropdown > span {
+  z-index: 2;
+  position: relative;
+}
+```

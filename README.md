@@ -584,3 +584,10 @@ display: flex;
   position: relative;
 }
 ```
+
+#### Set the cursor as pointer
+```
+.dropdown > span {
+  cursor: pointer;
+}
+```

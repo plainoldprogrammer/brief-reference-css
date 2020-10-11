@@ -591,3 +591,24 @@ display: flex;
   cursor: pointer;
 }
 ```
+
+#### Change the background color depending on the screen size
+```
+@media only screen and (max-width: 500px) {
+  body {
+    background-color: #F09A9D;
+  }
+}
+
+@media only screen and (min-width: 501px) and (max-width: 960px) {
+  body {
+    background-color: #F5CF8E;
+  }
+}
+
+@media only screen and (min-width: 961px) {
+  body {
+    background-color: #B2D6FF;
+  }
+}
+```

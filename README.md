@@ -612,3 +612,10 @@ display: flex;
   }
 }
 ```
+
+#### Cap the width of the illustration to its inherent width
+```
+<div class="section content">
+  <img class="illustration" src="images/illustration.svg" style="max-width: 500px">
+</div>
+```

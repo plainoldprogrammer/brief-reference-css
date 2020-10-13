@@ -619,3 +619,10 @@ display: flex;
   <img class="illustration" src="images/illustration.svg" style="max-width: 500px">
 </div>
 ```
+
+#### Make the semantic elements behave like divs In legacy browsers
+```
+section, article, aside, footer, header, nav {
+  display: block;
+}
+```

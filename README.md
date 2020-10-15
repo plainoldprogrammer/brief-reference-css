@@ -626,3 +626,10 @@ section, article, aside, footer, header, nav {
   display: block;
 }
 ```
+
+#### Attribute selector
+```
+.form-row input[type="text"] {
+}
+```
+

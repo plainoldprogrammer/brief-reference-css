@@ -633,3 +633,7 @@ section, article, aside, footer, header, nav {
 }
 ```
 
+#### Apply a theme color for chrome in android
+```
+<meta name="theme-color" content="#db5945"/>
+```

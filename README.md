@@ -637,3 +637,10 @@ section, article, aside, footer, header, nav {
 ```
 <meta name="theme-color" content="#db5945"/>
 ```
+
+#### Disable the resize in a text area
+```
+textarea {
+  resize: none;
+}
+```

@@ -652,3 +652,10 @@ textarea {
   src: url("Roboto-Light-webfont.woff") format("woff");
 }
 ```
+
+#### Verify that the bold and italic faces really are being synthesized
+```
+em, strong {
+  font-synthesis: none;
+}
+```

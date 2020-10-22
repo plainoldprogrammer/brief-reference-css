@@ -711,3 +711,10 @@ NOTE:	Never use indents and margins. Use only only at the time.
   text-align: center;
 }
 ```
+
+#### Justify the text
+ ```
+ .jusutify {
+  text-align: justify;
+}
+```

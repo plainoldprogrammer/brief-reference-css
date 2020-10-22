@@ -697,3 +697,10 @@ em, strong {
 
 NOTE:	Never use indents and margins. Use only only at the time.
 ```
+
+#### Align the text to the left
+```
+.left {
+  text-align: left;
+}
+```

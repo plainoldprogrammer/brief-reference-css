@@ -683,3 +683,17 @@ em, strong {
   font-weight: 700;
 }
 ```
+
+#### Paragraph indentation
+```
+.paragraph-indent p {
+  text-indent: 1em;
+  margin-bottom: 0;
+}
+
+.paragraph-indent p:first-of-type {
+  text-indent: 0;
+}
+
+NOTE:	Never use indents and margins. Use only only at the time.
+```

@@ -718,3 +718,15 @@ NOTE:	Never use indents and margins. Use only only at the time.
   text-align: justify;
 }
 ```
+
+#### Align horizontal and vertical the text inside a div
+```
+.button {
+  widht: 80px;
+  height: 80px;
+  text-align: center;
+  line-height: 80px;
+}
+
+NOTE:	The properties "width" and "line-height" should bethe same.
+```

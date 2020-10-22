@@ -659,3 +659,27 @@ em, strong {
   font-synthesis: none;
 }
 ```
+
+#### Include multiple font face of the same font family (the right way)
+```
+@font-face {
+  font-family: "Roboto";
+  src: url("Roboto-Light-webfont-woff") format("woff");
+  font-style:  normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("Roboto-LightItalic-webfont.woff") format("woff");
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("Roboto-Bold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+```

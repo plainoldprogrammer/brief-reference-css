@@ -730,3 +730,18 @@ NOTE:	Never use indents and margins. Use only only at the time.
 
 NOTE:	The properties "width" and "line-height" should bethe same.
 ```
+
+#### Change the background color depending on the window size
+```
+@media (max-width: 640px) {
+  body {
+    background-color: blue;
+  }
+}
+
+@media (min-width: 641px) {
+  body {
+    background-color: red;
+  }
+}
+```

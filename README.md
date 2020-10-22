@@ -704,3 +704,10 @@ NOTE:	Never use indents and margins. Use only only at the time.
   text-align: left;
 }
 ```
+
+#### Center the text
+```
+.center {
+  text-align: center;
+}
+```

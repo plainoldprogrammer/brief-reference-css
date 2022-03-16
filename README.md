@@ -745,3 +745,9 @@ NOTE:	The properties "width" and "line-height" should bethe same.
   }
 }
 ```
+
+#### Global selector
+```
+* {
+}
+```

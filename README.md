@@ -760,3 +760,12 @@ NOTE:	The properties "width" and "line-height" should bethe same.
   box-sizing: border-box;
 }
 ```
+
+#### Remove the background of an input
+```
+.some-class {
+  background: none;
+}
+
+<input type="number" class="some-class" />
+```

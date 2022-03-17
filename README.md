@@ -751,3 +751,12 @@ NOTE:	The properties "width" and "line-height" should bethe same.
 * {
 }
 ```
+
+#### Reset all the styles
+```
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+```

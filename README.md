@@ -769,3 +769,10 @@ NOTE:	The properties "width" and "line-height" should bethe same.
 
 <input type="number" class="some-class" />
 ```
+
+#### Making an element semi transparent
+```
+.the-element {
+  opacity: 50%;
+}
+```

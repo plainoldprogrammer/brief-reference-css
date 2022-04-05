@@ -776,3 +776,12 @@ NOTE:	The properties "width" and "line-height" should bethe same.
   opacity: 50%;
 }
 ```
+
+##### Define a custom property at document level
+```
+:root {
+  --color-primary: #5ec576;
+}
+
+NOTE:  ":root" is equivalent to the "documentProperty" in JavaScript.
+```

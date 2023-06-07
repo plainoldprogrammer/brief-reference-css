@@ -777,11 +777,18 @@ NOTE:	The properties "width" and "line-height" should bethe same.
 }
 ```
 
-##### Define a custom property at document level
+#### Define a custom property at document level
 ```
 :root {
   --color-primary: #5ec576;
 }
 
 NOTE:  ":root" is equivalent to the "documentProperty" in JavaScript.
+```
+
+#### Select an h1 heading with a paragraphm element that inmmediately follows it
+```
+h1:has(+ p) {
+  background-color: yellow;
+}
 ```

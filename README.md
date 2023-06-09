@@ -792,3 +792,14 @@ h1:has(+ p) {
   background-color: yellow;
 }
 ```
+
+#### Truncate text and show ellipsis
+```
+.text
+{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100px;
+}
+```
